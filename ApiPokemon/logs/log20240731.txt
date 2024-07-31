@@ -1462,3 +1462,17 @@ DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
 2024-07-31 15:12:53.189 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 452.3777ms
 2024-07-31 15:12:53.192 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
 2024-07-31 15:12:53.194 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - 200 null application/json; charset=utf-8 525.4012ms
+2024-07-31 16:45:55.462 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 16:45:55.846 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 16:45:55.846 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 16:45:55.848 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 16:45:55.849 -05:00 [INF] Hosting environment: Development
+2024-07-31 16:45:55.850 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 16:45:56.550 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 16:45:56.819 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 275.4647ms
+2024-07-31 16:45:56.835 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 16:45:56.842 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.0398ms
+2024-07-31 16:45:56.847 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 16:45:56.882 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.8342ms
+2024-07-31 16:45:56.932 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 16:45:57.035 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 103.2322ms

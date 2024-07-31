@@ -9,7 +9,6 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace ApiPokemon.Controllers
 {
-    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AutenticationController : ControllerBase

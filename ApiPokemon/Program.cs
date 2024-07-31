@@ -9,16 +9,16 @@ using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure Serilog
+// Configuracion de logs
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
-    .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day) // Configurar archivo de log diario
+    .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day)
     .CreateLogger();
 
-builder.Host.UseSerilog(); // Reemplazar el proveedor de logging predeterminado con Serilog
+builder.Host.UseSerilog();
 
 
-// Add services to the container.
+//Añadir servicios al contenedor.
 builder.Configuration.AddJsonFile("appsettings.json");
 var secretkey = builder.Configuration.GetSection("settings").GetSection("secretkey").ToString();
 var keyBytes = Encoding.UTF8.GetBytes(secretkey);
@@ -42,6 +42,7 @@ builder.Services.AddAuthentication(config =>
 });
 builder.Services.AddControllers();
 builder.Services.AddHttpClient();
+
 // Se agregan politicas de CORS para sitios seguros
 builder.Services.AddCors(options =>
 {
@@ -51,12 +52,14 @@ builder.Services.AddCors(options =>
                           .AllowAnyHeader());
 });
 
-// Configure logging
+// Configurar el registro
 builder.Logging.ClearProviders();
-builder.Logging.AddConsole(); // Add console logging
-builder.Logging.AddDebug(); // Add debug logging
+// Agregar registro de consola
+builder.Logging.AddConsole();
+// Agregar registro de depuración
+builder.Logging.AddDebug();
 
-// Add Swagger services
+// Agregar servicios Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(doc =>
 {
@@ -77,8 +80,6 @@ builder.Services.AddSwaggerGen(doc =>
             Url = new Uri("https://github.com/darogi10/Api_Pokemon.git"),
         }
     });
-
-    //doc.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, $"{Assembly.GetExecutingAssembly().GetName().Name}.xml"));
 
     doc.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
     {
@@ -105,14 +106,16 @@ builder.Services.AddSwaggerGen(doc =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configurar la canalización de solicitudes HTTP.
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
-    // Enable middleware to serve generated Swagger as a JSON endpoint.
+
+    // Habilite el middleware para servir Swagger generado como un punto final JSON.
     app.UseSwagger();
-    // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
-    // specifying the Swagger JSON endpoint.
+
+    // Habilitar middleware para servir swagger-ui (HTML, JS, CSS, etc.),
+    // especificando el punto final JSON de Swagger.
     app.UseSwaggerUI(c =>
     {
         //c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
@@ -124,6 +127,6 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseCors("CorsPolicy");
-app.UseMiddleware<ExceptionMiddleware>(); // Register the exception middleware
+app.UseMiddleware<ExceptionMiddleware>();
 app.MapControllers();
 app.Run();
