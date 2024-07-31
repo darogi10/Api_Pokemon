@@ -1,0 +1,1118 @@
+2024-07-31 07:32:13.855 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:32:13.916 -05:00 [INF] Creating key {8d926043-ab8f-4a35-a151-1b19e49b5e22} with creation date 2024-07-31 12:32:13Z, activation date 2024-07-31 12:32:13Z, and expiration date 2024-10-29 12:32:13Z.
+2024-07-31 07:32:13.940 -05:00 [INF] Writing data to file 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys\key-8d926043-ab8f-4a35-a151-1b19e49b5e22.xml'.
+2024-07-31 07:32:14.267 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:32:14.268 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:32:14.270 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:32:14.271 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:32:14.273 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:32:14.965 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:32:15.327 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 367.1226ms
+2024-07-31 07:32:15.347 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:32:15.354 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.899ms
+2024-07-31 07:32:15.360 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:32:15.407 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.2379ms
+2024-07-31 07:32:15.464 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:32:15.552 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.5161ms
+2024-07-31 07:34:25.606 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:34:25.985 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:34:25.985 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:34:25.987 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:34:25.988 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:34:25.988 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:34:26.582 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:34:26.882 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 304.939ms
+2024-07-31 07:34:26.899 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:34:26.906 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.2695ms
+2024-07-31 07:34:26.915 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:34:26.962 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.3951ms
+2024-07-31 07:34:27.030 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:34:27.140 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 110.6198ms
+2024-07-31 07:42:17.528 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:42:17.798 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:42:17.799 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:42:17.801 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:42:17.802 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:42:17.802 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:42:18.368 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:42:18.673 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 312.0082ms
+2024-07-31 07:42:18.692 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:42:18.700 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.8832ms
+2024-07-31 07:42:18.704 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:42:18.749 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.2461ms
+2024-07-31 07:42:18.798 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:42:18.911 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 113.324ms
+2024-07-31 07:48:06.340 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:48:06.779 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:48:06.780 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:48:06.783 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:48:06.785 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:48:06.787 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:48:07.188 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:48:07.479 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 294.9332ms
+2024-07-31 07:48:07.498 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:48:07.505 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.7241ms
+2024-07-31 07:48:07.508 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:48:07.545 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.4503ms
+2024-07-31 07:48:07.599 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:48:07.717 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 118.5529ms
+2024-07-31 07:48:31.700 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 07:48:31.710 -05:00 [INF] CORS policy execution successful.
+2024-07-31 07:48:31.714 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:48:31.738 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 07:48:31.782 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 07:48:31.795 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 52.0947ms
+2024-07-31 07:48:31.796 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:48:31.797 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 96.7394ms
+2024-07-31 07:49:11.478 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 07:49:11.485 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 07:49:11.489 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 07:49:11.490 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 12.7643ms
+2024-07-31 07:49:34.708 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 07:49:34.713 -05:00 [INF] CORS policy execution successful.
+2024-07-31 07:49:34.714 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:49:34.714 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 07:49:34.717 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 07:49:34.718 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 2.092ms
+2024-07-31 07:49:34.718 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:49:34.719 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 12.1619ms
+2024-07-31 07:49:44.141 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 07:49:44.145 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 07:49:44.146 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 07:49:44.147 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 6.1328ms
+2024-07-31 07:51:10.679 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:51:10.991 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:51:10.992 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:51:10.993 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:51:10.994 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:51:10.995 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:51:11.624 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:51:11.936 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 316.2123ms
+2024-07-31 07:51:11.960 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:51:11.968 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.4551ms
+2024-07-31 07:51:11.976 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:51:12.023 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.9036ms
+2024-07-31 07:51:12.107 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:51:12.228 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 121.9132ms
+2024-07-31 07:51:21.382 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 07:51:21.393 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 07:51:21.396 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 07:51:21.397 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 15.0337ms
+2024-07-31 07:55:22.150 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:55:22.522 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:55:22.524 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:55:22.526 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:55:22.527 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:55:22.528 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:55:23.360 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:55:23.667 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 311.6495ms
+2024-07-31 07:55:23.692 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:55:23.698 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.0065ms
+2024-07-31 07:55:23.701 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:55:23.746 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.1466ms
+2024-07-31 07:55:23.811 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:55:23.920 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.3837ms
+2024-07-31 07:55:33.368 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 07:55:33.377 -05:00 [INF] CORS policy execution successful.
+2024-07-31 07:55:33.381 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:55:33.395 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 07:55:33.426 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 07:55:33.438 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 40.0449ms
+2024-07-31 07:55:33.439 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:55:33.439 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 71.7791ms
+2024-07-31 07:57:24.153 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:57:24.425 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:57:24.426 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:57:24.429 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:57:24.430 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:57:24.430 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:57:24.941 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:57:25.227 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 290.1673ms
+2024-07-31 07:57:25.247 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:57:25.253 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.783ms
+2024-07-31 07:57:25.259 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:57:25.293 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.3383ms
+2024-07-31 07:57:25.350 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:57:25.437 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 87.6181ms
+2024-07-31 07:59:39.559 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 07:59:39.860 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 07:59:39.861 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 07:59:39.863 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 07:59:39.864 -05:00 [INF] Hosting environment: Development
+2024-07-31 07:59:39.864 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 07:59:40.443 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 07:59:40.723 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 284.6408ms
+2024-07-31 07:59:40.743 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 07:59:40.750 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.1351ms
+2024-07-31 07:59:40.754 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 07:59:40.795 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.8993ms
+2024-07-31 07:59:40.865 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 07:59:40.974 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.2277ms
+2024-07-31 07:59:55.100 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 07:59:55.108 -05:00 [INF] CORS policy execution successful.
+2024-07-31 07:59:55.111 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 07:59:55.125 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:02:07.854 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:02:08.147 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:02:08.148 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:02:08.150 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:02:08.151 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:02:08.152 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:02:08.677 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:02:08.943 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 270.5469ms
+2024-07-31 08:02:08.960 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:02:08.968 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.6491ms
+2024-07-31 08:02:08.972 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:02:09.013 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.3743ms
+2024-07-31 08:02:09.072 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:02:09.169 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 97.5405ms
+2024-07-31 08:02:17.219 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 08:02:17.227 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:02:17.231 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:02:17.246 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:02:17.281 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:02:17.296 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 45.4876ms
+2024-07-31 08:02:17.297 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:02:17.298 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 79.2411ms
+2024-07-31 08:04:49.234 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:04:49.501 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:04:49.502 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:04:49.504 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:04:49.505 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:04:49.506 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:04:50.335 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:04:50.617 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 286.2085ms
+2024-07-31 08:04:50.638 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:04:50.645 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.9545ms
+2024-07-31 08:04:50.650 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:04:50.687 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.8099ms
+2024-07-31 08:04:50.740 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:04:50.837 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 97.2954ms
+2024-07-31 08:04:56.185 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 08:04:56.194 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:04:56.198 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:04:56.215 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:04:56.221 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 1.9041ms
+2024-07-31 08:04:56.222 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:04:56.249 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 08:04:56.341 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 156.3146ms
+2024-07-31 08:06:52.945 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:06:53.219 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:06:53.222 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:06:53.224 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:06:53.225 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:06:53.226 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:06:53.616 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:06:53.917 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 304.898ms
+2024-07-31 08:06:53.946 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:06:53.952 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.3572ms
+2024-07-31 08:06:53.956 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:06:53.997 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.9048ms
+2024-07-31 08:06:54.053 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:06:54.142 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 89.9507ms
+2024-07-31 08:07:07.085 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 08:07:07.094 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:07:07.098 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:07:07.113 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:07:07.120 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 2.3081ms
+2024-07-31 08:07:07.121 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:07:07.148 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 08:07:07.184 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 100.2294ms
+2024-07-31 08:07:28.800 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:07:29.075 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:07:29.076 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:07:29.078 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:07:29.079 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:07:29.080 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:07:29.679 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:07:30.023 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 347.6036ms
+2024-07-31 08:07:30.050 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:07:30.058 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.2384ms
+2024-07-31 08:07:30.063 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:07:30.113 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.7489ms
+2024-07-31 08:07:30.179 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:07:30.288 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.5229ms
+2024-07-31 08:07:41.887 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 08:07:41.897 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:07:41.900 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:07:41.914 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:07:41.946 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:07:41.957 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 39.8308ms
+2024-07-31 08:07:41.958 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:07:41.959 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 72.0856ms
+2024-07-31 08:09:05.939 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:09:06.226 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:09:06.227 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:09:06.229 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:09:06.230 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:09:06.230 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:09:06.780 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:09:07.086 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 313.9459ms
+2024-07-31 08:09:07.107 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:09:07.113 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 5.9174ms
+2024-07-31 08:09:07.115 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:09:07.156 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.6287ms
+2024-07-31 08:09:07.199 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:09:07.293 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 94.8639ms
+2024-07-31 08:09:21.192 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 08:09:21.201 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:09:21.205 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:09:21.221 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:09:21.251 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:09:21.263 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 37.6201ms
+2024-07-31 08:09:21.264 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:09:21.265 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 72.8439ms
+2024-07-31 08:11:33.570 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:11:33.857 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:11:33.858 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:11:33.860 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:11:33.861 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:11:33.861 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:11:34.571 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:11:34.848 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 280.6153ms
+2024-07-31 08:11:34.868 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:11:34.874 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 5.7369ms
+2024-07-31 08:11:34.877 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:11:34.911 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.6877ms
+2024-07-31 08:11:34.954 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:11:35.042 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.3165ms
+2024-07-31 08:11:47.670 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 08:11:47.680 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:11:47.684 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:11:47.699 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:11:47.731 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:11:47.742 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 39.6117ms
+2024-07-31 08:11:47.744 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:11:47.745 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 75.2096ms
+2024-07-31 08:17:14.200 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:17:14.568 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:17:14.569 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:17:14.571 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:17:14.572 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:17:14.572 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:17:15.491 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:17:15.995 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 508.0817ms
+2024-07-31 08:17:16.015 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:17:16.028 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 13.1424ms
+2024-07-31 08:17:16.033 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:17:16.104 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 70.5885ms
+2024-07-31 08:17:16.151 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:17:16.244 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.2388ms
+2024-07-31 08:17:23.018 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 08:17:23.027 -05:00 [INF] CORS policy execution successful.
+2024-07-31 08:17:23.031 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:17:23.045 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:17:23.087 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:17:23.098 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 49.9159ms
+2024-07-31 08:17:23.099 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:17:23.100 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 82.5322ms
+2024-07-31 08:17:53.524 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 08:17:53.536 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 08:17:53.539 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 08:17:53.540 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 16.0505ms
+2024-07-31 08:34:40.896 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:34:41.236 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:34:41.237 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:34:41.240 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:34:41.241 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:34:41.242 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:34:42.244 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:34:42.654 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 420.4669ms
+2024-07-31 08:34:42.679 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:34:42.686 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.0055ms
+2024-07-31 08:34:42.692 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:34:42.742 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.8755ms
+2024-07-31 08:34:42.817 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:34:42.931 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.5736ms
+2024-07-31 08:35:08.182 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 08:35:08.194 -05:00 [INF] CORS policy execution failed.
+2024-07-31 08:35:08.194 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 08:35:08.199 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:35:08.218 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:35:08.225 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 2.3046ms
+2024-07-31 08:35:08.227 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:35:08.253 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 08:35:08.343 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 165.0121ms
+2024-07-31 08:36:27.430 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 08:36:27.759 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 08:36:27.760 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 08:36:27.764 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 08:36:27.765 -05:00 [INF] Hosting environment: Development
+2024-07-31 08:36:27.766 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 08:36:28.217 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 08:36:28.567 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 363.3519ms
+2024-07-31 08:36:28.590 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 08:36:28.600 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 9.5481ms
+2024-07-31 08:36:28.604 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 08:36:28.654 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.1637ms
+2024-07-31 08:36:28.727 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 08:36:28.849 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 122.6423ms
+2024-07-31 08:36:33.452 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 08:36:33.464 -05:00 [INF] CORS policy execution failed.
+2024-07-31 08:36:33.465 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 08:36:33.469 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:36:33.489 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:36:33.530 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:36:33.546 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 52.7454ms
+2024-07-31 08:36:33.547 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:36:33.548 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 97.0686ms
+2024-07-31 08:36:45.251 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 08:36:45.256 -05:00 [INF] CORS policy execution failed.
+2024-07-31 08:36:45.257 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 08:36:45.258 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:36:45.260 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 08:36:45.262 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 08:36:45.264 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 2.8206ms
+2024-07-31 08:36:45.265 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 08:36:45.266 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 15.0457ms
+2024-07-31 09:26:35.675 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 09:26:35.711 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 09:26:35.713 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 09:26:35.714 -05:00 [INF] Hosting environment: Development
+2024-07-31 09:26:35.715 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 09:26:36.569 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 09:26:36.841 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 280.214ms
+2024-07-31 09:26:36.858 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 09:26:36.865 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.7599ms
+2024-07-31 09:26:36.868 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 09:26:36.898 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.737ms
+2024-07-31 09:26:36.950 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 09:26:37.036 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.0382ms
+2024-07-31 09:28:33.228 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 09:28:33.239 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 09:28:33.258 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 09:28:33.329 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 09:28:33.333 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 09:28:33.336 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 09:28:33.722 -05:00 [INF] Received HTTP response headers after 383.6797ms - 200
+2024-07-31 09:28:33.723 -05:00 [INF] End processing HTTP request after 392.6558ms - 200
+2024-07-31 09:28:33.810 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 09:28:33.815 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 09:28:33.821 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 559.1777ms
+2024-07-31 09:28:33.822 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 09:28:33.823 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 597.0382ms
+2024-07-31 09:29:28.407 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 09:29:28.448 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 09:29:28.451 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 09:29:28.452 -05:00 [INF] Hosting environment: Development
+2024-07-31 09:29:28.452 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 09:29:28.900 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 09:29:29.161 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 267.2058ms
+2024-07-31 09:29:29.172 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 09:29:29.179 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.3768ms
+2024-07-31 09:29:29.184 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 09:29:29.250 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.7242ms
+2024-07-31 09:29:29.350 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 09:29:29.492 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 142.569ms
+2024-07-31 09:29:39.810 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 09:29:39.818 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 09:29:39.838 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 09:29:39.870 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 09:29:39.874 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 09:29:39.876 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 09:29:40.143 -05:00 [INF] Received HTTP response headers after 264.6686ms - 200
+2024-07-31 09:29:40.145 -05:00 [INF] End processing HTTP request after 273.1498ms - 200
+2024-07-31 09:29:40.250 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 09:29:40.256 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 09:29:40.264 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 421.5863ms
+2024-07-31 09:29:40.266 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 09:29:40.268 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 457.8896ms
+2024-07-31 09:29:59.839 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 09:29:59.881 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 09:29:59.883 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 09:29:59.884 -05:00 [INF] Hosting environment: Development
+2024-07-31 09:29:59.885 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 09:30:00.515 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 09:30:00.780 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 269.8043ms
+2024-07-31 09:30:00.804 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 09:30:00.812 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.6426ms
+2024-07-31 09:30:00.820 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 09:30:00.871 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.7637ms
+2024-07-31 09:30:00.988 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 09:30:01.113 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 125.5211ms
+2024-07-31 09:30:07.593 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 09:30:07.601 -05:00 [INF] CORS policy execution successful.
+2024-07-31 09:30:07.605 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:30:07.621 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 09:30:07.626 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 1.9372ms
+2024-07-31 09:30:07.628 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:30:07.654 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 09:30:07.731 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 138.7275ms
+2024-07-31 09:30:21.153 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 09:30:21.156 -05:00 [INF] CORS policy execution successful.
+2024-07-31 09:30:21.157 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:30:21.157 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 09:30:21.159 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 0.5242ms
+2024-07-31 09:30:21.161 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:30:21.174 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 09:30:21.178 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 25.2725ms
+2024-07-31 09:30:24.021 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 09:30:24.024 -05:00 [INF] CORS policy execution successful.
+2024-07-31 09:30:24.024 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:30:24.025 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 09:30:24.028 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 0.6854ms
+2024-07-31 09:30:24.029 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:30:24.044 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 09:30:24.048 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 26.4179ms
+2024-07-31 09:48:21.638 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 09:48:21.910 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 09:48:21.911 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 09:48:21.913 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 09:48:21.914 -05:00 [INF] Hosting environment: Development
+2024-07-31 09:48:21.915 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 09:48:22.426 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 09:48:22.750 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 327.3089ms
+2024-07-31 09:48:22.769 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 09:48:22.775 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.3038ms
+2024-07-31 09:48:22.780 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 09:48:22.814 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.1003ms
+2024-07-31 09:48:22.873 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 09:48:22.976 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 103.7ms
+2024-07-31 09:49:08.060 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 09:49:08.073 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 09:49:08.076 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 09:49:08.077 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 17.4913ms
+2024-07-31 09:49:08.264 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 09:49:08.268 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 09:49:08.269 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 09:49:08.269 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 6.2629ms
+2024-07-31 09:49:19.346 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 09:49:19.351 -05:00 [INF] CORS policy execution failed.
+2024-07-31 09:49:19.352 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 09:49:19.355 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:49:19.372 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 09:49:19.405 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 09:49:19.419 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 42.9469ms
+2024-07-31 09:49:19.420 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:49:19.421 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 74.9822ms
+2024-07-31 09:50:10.318 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 09:50:10.828 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 09:50:10.830 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 09:50:10.833 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 09:50:10.834 -05:00 [INF] Hosting environment: Development
+2024-07-31 09:50:10.834 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 09:50:11.559 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 09:50:11.856 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 303.0045ms
+2024-07-31 09:50:11.879 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 09:50:11.885 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 5.7521ms
+2024-07-31 09:50:11.889 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 09:50:11.925 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.3745ms
+2024-07-31 09:50:11.975 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 09:50:12.075 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 101.1915ms
+2024-07-31 09:50:20.265 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 09:50:20.277 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 09:50:20.281 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 09:50:20.282 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 401 0 null 17.0887ms
+2024-07-31 09:50:32.188 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 09:50:32.194 -05:00 [INF] CORS policy execution failed.
+2024-07-31 09:50:32.195 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 09:50:32.197 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:50:32.211 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 09:50:32.239 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 09:50:32.250 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 35.559ms
+2024-07-31 09:50:32.251 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 09:50:32.252 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 64.4167ms
+2024-07-31 10:00:08.831 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:00:09.162 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 10:00:09.163 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 10:00:09.165 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:00:09.166 -05:00 [INF] Hosting environment: Development
+2024-07-31 10:00:09.167 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 10:00:09.938 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 10:00:10.229 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 297.9556ms
+2024-07-31 10:00:10.250 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:00:10.257 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.4928ms
+2024-07-31 10:00:10.260 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 10:00:10.299 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.3559ms
+2024-07-31 10:00:10.365 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 10:00:10.459 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 94.1865ms
+2024-07-31 10:38:38.112 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:38:38.580 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 10:38:38.581 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 10:38:38.584 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:38:38.585 -05:00 [INF] Hosting environment: Development
+2024-07-31 10:38:38.586 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 10:38:39.613 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 10:38:39.957 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 348.0161ms
+2024-07-31 10:38:39.983 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:38:39.991 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.4409ms
+2024-07-31 10:38:39.996 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 10:38:40.045 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.9908ms
+2024-07-31 10:38:40.115 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 10:38:40.230 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.5072ms
+2024-07-31 10:38:56.920 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 10:38:57.173 -05:00 [INF] CORS policy execution failed.
+2024-07-31 10:38:57.175 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 10:38:57.183 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:38:57.208 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 10:38:57.272 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 10:38:57.292 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 76.9136ms
+2024-07-31 10:38:57.295 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:38:57.297 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 377.2582ms
+2024-07-31 10:39:10.198 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 47
+2024-07-31 10:39:10.204 -05:00 [INF] CORS policy execution failed.
+2024-07-31 10:39:10.205 -05:00 [INF] Request origin https://localhost:7036 does not have permission to access the resource.
+2024-07-31 10:39:10.207 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:39:10.209 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 10:42:32.356 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 10:42:32.410 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 10:42:32.413 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:42:32.415 -05:00 [INF] Hosting environment: Development
+2024-07-31 10:42:32.416 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 10:42:33.138 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 10:42:33.426 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 293.0008ms
+2024-07-31 10:42:33.444 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:42:33.452 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.1551ms
+2024-07-31 10:42:33.457 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 10:42:33.513 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.3895ms
+2024-07-31 10:42:33.577 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 10:42:33.705 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 128.6015ms
+2024-07-31 10:52:31.647 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:52:32.109 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 10:52:32.112 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 10:52:32.115 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:52:32.116 -05:00 [INF] Hosting environment: Development
+2024-07-31 10:52:32.117 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 10:52:33.114 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 10:52:33.399 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 289.8355ms
+2024-07-31 10:52:33.423 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:52:33.432 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.5704ms
+2024-07-31 10:52:33.435 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 10:52:33.478 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.1953ms
+2024-07-31 10:52:33.541 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 10:52:33.656 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.9164ms
+2024-07-31 10:52:40.938 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 10:52:41.056 -05:00 [INF] CORS policy execution successful.
+2024-07-31 10:52:41.061 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:52:41.087 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 10:52:41.100 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 3.546ms
+2024-07-31 10:52:41.104 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:52:41.152 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 10:52:41.221 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 283.5759ms
+2024-07-31 10:52:54.225 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 10:52:54.232 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 10:52:54.243 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 10:52:54.341 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 10:52:54.348 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 10:52:54.351 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 10:52:55.446 -05:00 [INF] Received HTTP response headers after 1090.106ms - 200
+2024-07-31 10:52:55.448 -05:00 [INF] End processing HTTP request after 1104.0118ms - 200
+2024-07-31 10:52:55.950 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 10:52:55.957 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 10:52:55.965 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 1720.4863ms
+2024-07-31 10:52:55.969 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 10:52:55.973 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 1747.4868ms
+2024-07-31 10:53:51.937 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:53:52.468 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 10:53:52.470 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 10:53:52.474 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:53:52.476 -05:00 [INF] Hosting environment: Development
+2024-07-31 10:53:52.478 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 10:53:53.338 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 10:53:53.660 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 328.9339ms
+2024-07-31 10:53:53.685 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:53:53.692 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.817ms
+2024-07-31 10:53:53.695 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 10:53:53.736 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.1381ms
+2024-07-31 10:53:53.806 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 10:53:53.922 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 115.9767ms
+2024-07-31 10:53:59.338 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 10:53:59.477 -05:00 [INF] CORS policy execution successful.
+2024-07-31 10:53:59.481 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:53:59.513 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(PokemonAPI.Controllers.UserLoginRequest) on controller PokemonAPI.Controllers.AuthController (ApiPokemon).
+2024-07-31 10:53:59.528 -05:00 [INF] Executed action PokemonAPI.Controllers.AuthController.Login (ApiPokemon) in 5.617ms
+2024-07-31 10:53:59.531 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.AuthController.Login (ApiPokemon)'
+2024-07-31 10:53:59.577 -05:00 [ERR] Se produjo una excepción no manejada.
+System.InvalidOperationException: Unable to resolve service for type 'PokemonAPI.Services.JwtService' while attempting to activate 'PokemonAPI.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method4(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon\Controllers\ExceptionMiddleware.cs:line 22
+2024-07-31 10:53:59.650 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 500 null application/json 313.3539ms
+2024-07-31 10:54:09.561 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 10:54:09.568 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 10:54:09.578 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 10:54:09.627 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 10:54:09.634 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 10:54:09.637 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 10:54:10.457 -05:00 [INF] Received HTTP response headers after 815.5674ms - 200
+2024-07-31 10:54:10.460 -05:00 [INF] End processing HTTP request after 828.868ms - 200
+2024-07-31 10:54:10.804 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 10:54:10.811 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 10:54:10.818 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 1237.7713ms
+2024-07-31 10:54:10.821 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 10:54:10.824 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 1264.1579ms
+2024-07-31 10:55:57.732 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:55:58.226 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 10:55:58.228 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 10:55:58.231 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:55:58.235 -05:00 [INF] Hosting environment: Development
+2024-07-31 10:55:58.236 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 10:55:58.835 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 10:55:59.259 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 432.0569ms
+2024-07-31 10:55:59.297 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:55:59.309 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 12.3225ms
+2024-07-31 10:55:59.317 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 10:55:59.383 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.7403ms
+2024-07-31 10:55:59.488 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 10:55:59.649 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 161.4049ms
+2024-07-31 10:56:06.476 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/token - application/json 50
+2024-07-31 10:56:06.588 -05:00 [INF] CORS policy execution successful.
+2024-07-31 10:56:06.593 -05:00 [INF] Executing endpoint 'AuthController.GetToken (ApiPokemon)'
+2024-07-31 10:56:06.618 -05:00 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetToken(UserLogin) on controller AuthController (ApiPokemon).
+2024-07-31 10:56:06.660 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 10:56:06.679 -05:00 [INF] Executed action AuthController.GetToken (ApiPokemon) in 54.4338ms
+2024-07-31 10:56:06.681 -05:00 [INF] Executed endpoint 'AuthController.GetToken (ApiPokemon)'
+2024-07-31 10:56:06.682 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/token - 401 null application/problem+json; charset=utf-8 207.6507ms
+2024-07-31 10:56:26.741 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 10:56:26.747 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 10:56:26.762 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 10:56:26.787 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 10:56:26.791 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 10:56:26.794 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 10:56:27.707 -05:00 [INF] Received HTTP response headers after 907.5748ms - 200
+2024-07-31 10:56:27.710 -05:00 [INF] End processing HTTP request after 920.8337ms - 200
+2024-07-31 10:56:28.036 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 10:56:28.042 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 10:56:28.047 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 1282.3199ms
+2024-07-31 10:56:28.050 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 10:56:28.052 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 1311.301ms
+2024-07-31 11:21:51.869 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 11:21:52.308 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 11:21:52.309 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 11:21:52.311 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:21:52.312 -05:00 [INF] Hosting environment: Development
+2024-07-31 11:21:52.313 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 11:21:53.154 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 11:21:53.546 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 396.1791ms
+2024-07-31 11:21:53.567 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 11:21:53.575 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.2045ms
+2024-07-31 11:21:53.581 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 11:21:53.624 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.7335ms
+2024-07-31 11:21:53.696 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 11:21:53.810 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.495ms
+2024-07-31 11:24:40.399 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 11:24:40.778 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 11:24:40.779 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 11:24:40.781 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:24:40.782 -05:00 [INF] Hosting environment: Development
+2024-07-31 11:24:40.784 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 11:24:41.535 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 11:24:41.887 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 358.3634ms
+2024-07-31 11:24:41.916 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 11:24:41.946 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 11:24:41.955 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 9.2832ms
+2024-07-31 11:24:41.980 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.3449ms
+2024-07-31 11:24:42.086 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 11:24:42.224 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 137.6643ms
+2024-07-31 11:24:50.058 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 11:24:50.322 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 11:24:50.358 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 11:24:50.470 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 11:24:50.476 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 11:24:50.479 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 11:24:51.130 -05:00 [INF] Received HTTP response headers after 645.9423ms - 200
+2024-07-31 11:24:51.133 -05:00 [INF] End processing HTTP request after 660.2903ms - 200
+2024-07-31 11:24:51.840 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 11:24:51.849 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 11:24:51.860 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 1495.351ms
+2024-07-31 11:24:51.863 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 11:24:51.867 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 1809.3709ms
+2024-07-31 11:25:00.813 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 11:25:00.823 -05:00 [INF] CORS policy execution successful.
+2024-07-31 11:25:00.825 -05:00 [INF] Executing endpoint 'AuthController.Login (ApiPokemon)'
+2024-07-31 11:25:00.831 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(LoginModel) on controller AuthController (ApiPokemon).
+2024-07-31 11:25:00.848 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 11:25:00.862 -05:00 [INF] Executed action AuthController.Login (ApiPokemon) in 28.762ms
+2024-07-31 11:25:00.864 -05:00 [INF] Executed endpoint 'AuthController.Login (ApiPokemon)'
+2024-07-31 11:25:00.866 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 53.0578ms
+2024-07-31 11:26:35.663 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 11:26:36.125 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 11:26:36.126 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 11:26:36.129 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:26:36.130 -05:00 [INF] Hosting environment: Development
+2024-07-31 11:26:36.132 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 11:26:36.794 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 11:26:37.156 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 367.3682ms
+2024-07-31 11:26:37.185 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 11:26:37.195 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 10.5473ms
+2024-07-31 11:26:37.200 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 11:26:37.253 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.5664ms
+2024-07-31 11:26:37.333 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 11:26:37.480 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 147.7307ms
+2024-07-31 11:26:42.386 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 11:26:42.510 -05:00 [INF] CORS policy execution successful.
+2024-07-31 11:26:42.516 -05:00 [INF] Executing endpoint 'AuthController.Login (ApiPokemon)'
+2024-07-31 11:26:42.543 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(LoginModel) on controller AuthController (ApiPokemon).
+2024-07-31 11:26:42.593 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 11:26:42.613 -05:00 [INF] Executed action AuthController.Login (ApiPokemon) in 61.8534ms
+2024-07-31 11:26:42.615 -05:00 [INF] Executed endpoint 'AuthController.Login (ApiPokemon)'
+2024-07-31 11:26:42.616 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 230.1102ms
+2024-07-31 11:33:45.890 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 11:33:45.937 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 11:33:45.940 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:33:45.942 -05:00 [INF] Hosting environment: Development
+2024-07-31 11:33:45.943 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 11:33:47.040 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 11:33:47.424 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 387.6229ms
+2024-07-31 11:33:47.439 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 11:33:47.449 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 9.2212ms
+2024-07-31 11:33:47.455 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 11:33:47.502 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.4883ms
+2024-07-31 11:33:47.563 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 11:33:47.669 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 106.757ms
+2024-07-31 11:33:56.154 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Auth/login - application/json 50
+2024-07-31 11:33:56.167 -05:00 [INF] CORS policy execution successful.
+2024-07-31 11:33:56.172 -05:00 [INF] Executing endpoint 'AuthController.Login (ApiPokemon)'
+2024-07-31 11:33:56.200 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(LoginModel) on controller AuthController (ApiPokemon).
+2024-07-31 11:33:56.459 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-31 11:33:56.480 -05:00 [INF] Executed action AuthController.Login (ApiPokemon) in 273.9906ms
+2024-07-31 11:33:56.482 -05:00 [INF] Executed endpoint 'AuthController.Login (ApiPokemon)'
+2024-07-31 11:33:56.484 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Auth/login - 401 null application/problem+json; charset=utf-8 330.6448ms
+2024-07-31 11:37:21.468 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 11:37:21.526 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 11:37:21.529 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:37:21.531 -05:00 [INF] Hosting environment: Development
+2024-07-31 11:37:21.533 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 11:37:22.394 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 11:37:22.780 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 391.9421ms
+2024-07-31 11:37:22.802 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 11:37:22.812 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 10.7534ms
+2024-07-31 11:37:22.825 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 11:37:22.880 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.3785ms
+2024-07-31 11:37:22.972 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 11:37:23.128 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 156.6857ms
+2024-07-31 11:37:35.284 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - null null
+2024-07-31 11:37:35.297 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 11:37:35.327 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 11:37:35.429 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 11:37:35.436 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 11:37:35.439 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 11:37:36.238 -05:00 [INF] Received HTTP response headers after 794.3809ms - 200
+2024-07-31 11:37:36.241 -05:00 [INF] End processing HTTP request after 808.658ms - 200
+2024-07-31 11:37:36.669 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 11:37:36.678 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 11:37:36.691 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 1356.663ms
+2024-07-31 11:37:36.694 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 11:37:36.698 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas/pikachu - 200 null application/json; charset=utf-8 1414.0162ms
+2024-07-31 12:04:19.112 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 12:04:19.160 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 12:04:19.163 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 12:04:19.164 -05:00 [INF] Hosting environment: Development
+2024-07-31 12:04:19.165 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 12:04:20.097 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 12:04:20.502 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 408.2495ms
+2024-07-31 12:04:20.530 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 12:04:20.541 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 11.3009ms
+2024-07-31 12:04:20.545 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 12:04:20.589 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.952ms
+2024-07-31 12:04:20.652 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 12:04:20.757 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 106.2275ms
+2024-07-31 13:08:54.366 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:08:54.853 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:08:54.856 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:08:54.858 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:08:54.859 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:08:54.860 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:08:55.646 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:08:56.082 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 441.9756ms
+2024-07-31 13:08:56.112 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:08:56.122 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 10.0068ms
+2024-07-31 13:08:56.125 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:08:56.173 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.1033ms
+2024-07-31 13:08:56.248 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:08:56.362 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.4074ms
+2024-07-31 13:11:14.719 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:11:15.219 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:11:15.221 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:11:15.223 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:11:15.225 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:11:15.226 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:11:16.130 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:11:16.425 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 300.3512ms
+2024-07-31 13:11:16.447 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:11:16.455 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 7.1944ms
+2024-07-31 13:11:16.458 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:11:16.503 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.3643ms
+2024-07-31 13:11:16.563 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:11:16.676 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 113.7292ms
+2024-07-31 13:19:14.115 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:19:14.612 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:19:14.613 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:19:14.616 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:19:14.618 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:19:14.619 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:19:15.633 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:19:16.071 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 442.3565ms
+2024-07-31 13:19:16.096 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:19:16.105 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.2831ms
+2024-07-31 13:19:16.107 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:19:16.151 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.591ms
+2024-07-31 13:19:16.215 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:19:16.315 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.8778ms
+2024-07-31 13:23:00.241 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:23:00.553 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:23:00.554 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:23:00.556 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:23:00.557 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:23:00.557 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:23:01.237 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:23:01.452 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 219.9865ms
+2024-07-31 13:23:01.478 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:23:01.485 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.8404ms
+2024-07-31 13:23:01.489 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:23:01.519 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.4194ms
+2024-07-31 13:23:01.568 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:23:01.656 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.6418ms
+2024-07-31 13:29:11.514 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:29:11.543 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 28.2791ms
+2024-07-31 13:29:11.561 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:29:11.562 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:29:11.565 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 3.7322ms
+2024-07-31 13:29:11.585 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.9881ms
+2024-07-31 13:29:11.618 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:29:11.625 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.375ms
+2024-07-31 13:30:02.654 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:30:03.018 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:30:03.019 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:30:03.021 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:30:03.022 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:30:03.022 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:30:03.645 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:30:03.936 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 299.4656ms
+2024-07-31 13:30:03.964 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:30:03.975 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 12.4227ms
+2024-07-31 13:30:03.979 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:30:04.042 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.6674ms
+2024-07-31 13:30:04.125 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:30:04.257 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 132.4661ms
+2024-07-31 13:34:04.186 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:34:04.492 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:34:04.493 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:34:04.495 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:34:04.495 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:34:04.496 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:34:05.222 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:34:05.454 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 236.7796ms
+2024-07-31 13:34:05.475 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:34:05.495 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:34:05.500 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 26.4499ms
+2024-07-31 13:34:05.537 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.0947ms
+2024-07-31 13:34:05.615 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:34:05.747 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 132.0787ms
+2024-07-31 13:53:18.968 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 13:53:19.277 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 13:53:19.278 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 13:53:19.280 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 13:53:19.282 -05:00 [INF] Hosting environment: Development
+2024-07-31 13:53:19.286 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 13:53:19.805 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 13:53:20.062 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 263.9768ms
+2024-07-31 13:53:20.086 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 13:53:20.095 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.9652ms
+2024-07-31 13:53:20.098 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 13:53:20.137 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.4291ms
+2024-07-31 13:53:20.209 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 13:53:20.354 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 145.5059ms
+2024-07-31 13:53:30.174 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - null null
+2024-07-31 13:53:30.368 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 13:53:30.373 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 13:53:30.374 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - 401 0 null 200.8658ms
+2024-07-31 14:09:23.405 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 14:09:23.817 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 14:09:23.818 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 14:09:23.820 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 14:09:23.821 -05:00 [INF] Hosting environment: Development
+2024-07-31 14:09:23.822 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 14:09:24.413 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 14:09:24.760 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 352.7459ms
+2024-07-31 14:09:24.791 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 14:09:24.799 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 9.8211ms
+2024-07-31 14:09:24.802 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 14:09:24.857 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.9274ms
+2024-07-31 14:09:24.931 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 14:09:25.073 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 142.4604ms
+2024-07-31 14:09:44.955 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Autentication/Validar - application/json 43
+2024-07-31 14:09:45.096 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 14:09:45.101 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 14:09:45.103 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Autentication/Validar - 401 0 null 147.8957ms
+2024-07-31 14:11:16.346 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 14:11:16.777 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 14:11:16.779 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 14:11:16.782 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 14:11:16.784 -05:00 [INF] Hosting environment: Development
+2024-07-31 14:11:16.785 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 14:11:17.570 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 14:11:17.952 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 391.509ms
+2024-07-31 14:11:17.985 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 14:11:17.995 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 12.2863ms
+2024-07-31 14:11:17.999 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 14:11:18.073 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.1182ms
+2024-07-31 14:11:18.194 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 14:11:18.385 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 191.1009ms
+2024-07-31 14:11:30.990 -05:00 [INF] Request starting HTTP/2 POST https://localhost:7036/api/Autentication/Validar - application/json 43
+2024-07-31 14:11:31.108 -05:00 [INF] CORS policy execution successful.
+2024-07-31 14:11:31.112 -05:00 [INF] Executing endpoint 'ApiPokemon.Controllers.AutenticationController.Validar (ApiPokemon)'
+2024-07-31 14:11:31.133 -05:00 [INF] Route matched with {action = "Validar", controller = "Autentication"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(ApiPokemon.Models.Usuario) on controller ApiPokemon.Controllers.AutenticationController (ApiPokemon).
+2024-07-31 14:11:31.255 -05:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 14:11:31.264 -05:00 [INF] Executed action ApiPokemon.Controllers.AutenticationController.Validar (ApiPokemon) in 127.0213ms
+2024-07-31 14:11:31.267 -05:00 [INF] Executed endpoint 'ApiPokemon.Controllers.AutenticationController.Validar (ApiPokemon)'
+2024-07-31 14:11:31.269 -05:00 [INF] Request finished HTTP/2 POST https://localhost:7036/api/Autentication/Validar - 200 null application/json; charset=utf-8 278.2503ms
+2024-07-31 14:15:38.504 -05:00 [INF] Request starting HTTP/1.1 POST https://localhost:7036/api/Autentication/Validar - application/json 50
+2024-07-31 14:15:38.508 -05:00 [INF] Executing endpoint 'ApiPokemon.Controllers.AutenticationController.Validar (ApiPokemon)'
+2024-07-31 14:15:38.509 -05:00 [INF] Route matched with {action = "Validar", controller = "Autentication"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(ApiPokemon.Models.Usuario) on controller ApiPokemon.Controllers.AutenticationController (ApiPokemon).
+2024-07-31 14:15:38.514 -05:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 14:15:38.519 -05:00 [INF] Executed action ApiPokemon.Controllers.AutenticationController.Validar (ApiPokemon) in 7.989ms
+2024-07-31 14:15:38.522 -05:00 [INF] Executed endpoint 'ApiPokemon.Controllers.AutenticationController.Validar (ApiPokemon)'
+2024-07-31 14:15:38.523 -05:00 [INF] Request finished HTTP/1.1 POST https://localhost:7036/api/Autentication/Validar - 200 null application/json; charset=utf-8 19.8578ms
+2024-07-31 14:16:22.510 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - null null
+2024-07-31 14:16:22.521 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 14:16:22.526 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 14:16:22.527 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - 401 0 null 20.9182ms
+2024-07-31 14:16:48.183 -05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - null null
+2024-07-31 14:16:48.188 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 14:16:48.190 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-31 14:16:48.192 -05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - 401 0 null 8.5136ms
+2024-07-31 14:17:13.745 -05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - null null
+2024-07-31 14:17:13.791 -05:00 [INF] Executing endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 14:17:13.798 -05:00 [INF] Route matched with {action = "GetHabilidadesOcultas", controller = "Pokemon"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHabilidadesOcultas(System.String) on controller PokemonAPI.Controllers.PokemonController (ApiPokemon).
+2024-07-31 14:17:13.850 -05:00 [INF] Consultando habilidades ocultas para el Pokémon: pikachu
+2024-07-31 14:17:13.853 -05:00 [INF] Start processing HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 14:17:13.855 -05:00 [INF] Sending HTTP request GET https://pokeapi.co/api/v2/pokemon/pikachu
+2024-07-31 14:17:14.257 -05:00 [INF] Received HTTP response headers after 400.0817ms - 200
+2024-07-31 14:17:14.259 -05:00 [INF] End processing HTTP request after 406.8562ms - 200
+2024-07-31 14:17:14.361 -05:00 [INF] Habilidades ocultas encontradas para el Pokémon: pikachu
+2024-07-31 14:17:14.363 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-07-31 14:17:14.366 -05:00 [INF] Executed action PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon) in 565.9438ms
+2024-07-31 14:17:14.368 -05:00 [INF] Executed endpoint 'PokemonAPI.Controllers.PokemonController.GetHabilidadesOcultas (ApiPokemon)'
+2024-07-31 14:17:14.370 -05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7036/api/Pokemon/habilidadesOcultas?pokemon=pikachu - 200 null application/json; charset=utf-8 625.58ms
+2024-07-31 14:41:28.978 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 14:41:29.429 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 14:41:29.430 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 14:41:29.432 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 14:41:29.433 -05:00 [INF] Hosting environment: Development
+2024-07-31 14:41:29.434 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 14:41:30.551 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 14:41:30.925 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 380.7476ms
+2024-07-31 14:41:30.952 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 14:41:30.960 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.5735ms
+2024-07-31 14:41:30.965 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 14:41:31.020 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.497ms
+2024-07-31 14:41:31.117 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 14:41:31.267 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 151.2988ms
+2024-07-31 14:43:29.680 -05:00 [INF] User profile is available. Using 'C:\Users\danrodgi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 14:43:30.328 -05:00 [INF] Now listening on: https://localhost:7036
+2024-07-31 14:43:30.329 -05:00 [INF] Now listening on: http://localhost:5058
+2024-07-31 14:43:30.332 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 14:43:30.333 -05:00 [INF] Hosting environment: Development
+2024-07-31 14:43:30.334 -05:00 [INF] Content root path: C:\Users\danrodgi\Documents\Confidencial\Emtelco\ApiPokemon\ApiPokemon
+2024-07-31 14:43:30.932 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/index.html - null null
+2024-07-31 14:43:31.302 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/index.html - 200 null text/html;charset=utf-8 377.8689ms
+2024-07-31 14:43:31.347 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 14:43:31.358 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 11.2016ms
+2024-07-31 14:43:31.364 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/_vs/browserLink - null null
+2024-07-31 14:43:31.427 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.7712ms
+2024-07-31 14:43:31.533 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - null null
+2024-07-31 14:43:31.676 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7036/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 143.9948ms
