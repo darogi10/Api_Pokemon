@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -73,9 +74,33 @@ builder.Services.AddSwaggerGen(doc =>
         License = new OpenApiLicense
         {
             Name = "Contact The Company",
-            Url = new Uri("https://emtelco.com.co/"),
+            Url = new Uri("https://github.com/darogi10/Api_Pokemon.git"),
         }
     });
+
+    //doc.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, $"{Assembly.GetExecutingAssembly().GetName().Name}.xml"));
+
+    doc.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+    {
+        In = ParameterLocation.Header,
+        Description = "JWT Bearer Authorization",
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        BearerFormat = "JWT",
+        Scheme = "Bearer"
+    });
+
+    doc.AddSecurityRequirement(new OpenApiSecurityRequirement {
+{
+    new OpenApiSecurityScheme
+    {
+        Reference = new OpenApiReference
+        {
+            Type = ReferenceType.SecurityScheme,
+            Id = "Bearer"
+        }},
+    Array.Empty<string>()
+}});
 });
 
 var app = builder.Build();
